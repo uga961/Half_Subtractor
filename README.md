@@ -15,7 +15,7 @@ This project involves designing, simulating, and analyzing a **CMOS Half Subtrac
 ### Schematic Design
 
 - Designed using **Virtuoso Schematic Editor**.
-- Constructed using **AND, NOR, and NOT gates** from a custom-built library.
+- Constructed using **NAND, NOR, and NOT gates** from a custom-built library.
 - Verified through **Transient analysis**.
 
 ### Layout Design
