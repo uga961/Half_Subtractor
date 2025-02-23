@@ -46,7 +46,7 @@ This project involves designing, simulating, and analyzing a **CMOS Half Subtrac
 
   ![Half_Sub_Test](https://github.com/user-attachments/assets/c32b6984-cc4c-4396-972a-a9c9138f7fd7)
 
-- **Half\_Subtractor\_AV\_ADE**
+- **Half\_Subtractor\_ADE**
   
   ![Half_Sub_ADE](https://github.com/user-attachments/assets/9c513f03-507b-41fe-9529-e28acb2c6490)
 
